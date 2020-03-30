@@ -1,1 +1,1 @@
-TO detect and recognize the bank cheque number.
+To detect and recognize the bank cheque number.
